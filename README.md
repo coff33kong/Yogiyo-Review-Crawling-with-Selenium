@@ -39,5 +39,3 @@
     - OperationTime : Restaurant operating hours
     - Address : Restaurant address
 
-
-
